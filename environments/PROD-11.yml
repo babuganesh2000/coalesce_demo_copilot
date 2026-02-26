@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "11"
+mappingDefinitions:
+  BUILD_STORAGE_LOCATION:
+    database: COPILOT_TARGET
+    schema: PUBLIC
+  SNOWFLAKE_SOURCE:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+name: PROD
+type: Environment
