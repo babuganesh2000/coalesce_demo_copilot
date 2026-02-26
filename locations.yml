@@ -1,0 +1,5 @@
+defaultStorageMapping: BUILD_STORAGE_LOCATION
+fileVersion: 1
+locations:
+  - BUILD_STORAGE_LOCATION
+  - SNOWFLAKE_SOURCE
