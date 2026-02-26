@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "2"
+includeSelector: "{ location: BUILD_STORAGE_LOCATION name: DIM_CUSTOMER }"
+name: MyFirstJob
+type: Job
